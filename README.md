@@ -1,5 +1,6 @@
 # pratt-phase-gate-framework
-# The Pratt All-Optical Phase Gate: A Unified Semiclassical Continuum Framework for Zero-Noise Photonic Switching
+# The Pratt All-Optical Phase Gate: A Unified Semiclassical Continuum Framework for Zero-Noise  Photonic Phase Telemetry and
+# Transient Diagnostics
 
 An airtight, self-consistent continuum framework that breaks the historic "thermal bottleneck" of ultrafast optoelectronics. This repository contains the complete physical formulation, state-space stability matrix, and boundary solvers for a zero-noise, non-destructive all-optical switch using an engineered Zirconium Dioxide ($\text{ZrO}_2$) thin-film micro-cavity array mounted on a high-conductivity Chemical Vapor Deposition (CVD) diamond substrate.
 
